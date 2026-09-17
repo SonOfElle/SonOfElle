@@ -77,12 +77,16 @@ data engineering.
 
 <h3 align="center">Orchestration, DevOps & Security</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
+</p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/RBAC_%26_Managed_Identities-2F363D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="RBAC and Managed Identities" />
 </p>
 
