@@ -1,145 +1,135 @@
-# Hello world! I’m **Ngonidzashe**, welcome to my playground
+# Hello world 👋 I'm **Ngonidzashe**, step into my playground
 
 <div align="center" style="margin-bottom: 20px;">
-  <!-- Banner -->
   <img 
-    src="assets/Data Science  Cloud  MLOps.png" 
+    src="assets/Header.jpg" 
     alt="Ngonidzashe GitHub Banner"
     style="width: 100%; max-width: 900px; border-radius: 10px; object-fit: cover;"
   />
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=2800&pause=800&center=true&vCenter=true&width=1000&size=24&color=1F6FEB&lines=Turning+data-driven+research+into+scalable+ML+pipelines+on+the+cloud;Data+Science+meets+DevOps+%26+Cloud+Engineering;MLOps+%7C%7C+Cloud+Engineer+%7C%7C+AI+%7C%7C+CI%2FCD+%7C%7C+Docker+%7C%7C+Terraform+%7C%7C+MLflow;Problem-Solver+%7C%7C+Innovator+%7C%7C+Competitive+Programmer+%7C%7C+Nerd" 
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=2800&pause=800&center=true&vCenter=true&width=1000&size=24&color=1F6FEB&lines=Data+Engineer+%7C%7C+Azure+%26+Microsoft+Fabric;Turning+production+incidents+into+resilient+pipelines;PySpark+%7C%7C+Medallion+Lakehouse+%7C%7C+Delta+Lake+%7C%7C+Power+BI" 
     alt="Typing Animation"
     style="width: 100%; max-width: 1000px;"
   />
 </div>
 
-<!-- Links -->
 <p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/ngonidzashe-ntuli-b45b21136">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   &nbsp;
   <a href="mailto:ngonidzashe.ntuli@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2F363D?logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
 
 ---
 
-- Currently transitioning from **Azure Infrastructure** to **Azure Data**  
-- MSc in **Data Science**, with strong foundations in statistics & model design  
-- Exploring **MLOps**, **Serverless**, and **Big Data systems**  
-- Love teaching, debugging, and simplifying complex tech for others  
+I build and break enterprise data platforms for a living; currently on the support
+side of **Microsoft Fabric** and **Azure Data Platforms**, where I've seen how production
+pipelines actually fail. I'm now on the other side of that fence: building
+end-to-end data solutions that don't.
+
+**MSc in Data Science.** Comfortable in the space between platform diagnostics and
+data engineering.
 
 ---
 
-Here’s a snapshot of my most relevant work - from classical ML to MLOps pipelines.
+## These are my projects if you're interested
 
-| Theme | Repository | Description |
-|----------|---------------|----------------|
-| **Foundations** | [data-science-foundations](https://github.com/SonOfElle/data-science-foundations) | Bayesian, Fuzzy, and Rule-based ML models with interpretable logic |
-| **Computing & Parallelism** | [scientific-computing-and-parallelism](https://github.com/SonOfElle/scientific-computing-and-parallelism) | Threads, GPU, and MPI programming for scalable computation |
-| **Deep Learning** | [deep-learning-and-ai-projects](https://github.com/SonOfElle/deep-learning-and-ai-projects) | CNNs, RNNs, and MSc thesis model comparisons |
-| **Visual Data** | [visual-data-analysis](https://github.com/SonOfElle/visual-data-analysis) | Satellite imagery and geospatial clustering for environmental insights |
-| **MLOps** | [mlops-end-to-end](https://github.com/SonOfElle/mlops-end-to-end) | End-to-end ML pipeline: data → training → deployment → monitoring |
+> *Built from real production patterns*
+
+|  | Project | What it proves |
+|:---:|---|---|
+| 🟡 | [**Predicting Solder Joint Failure using Machine Learning methods**](https://github.com/SonOfElle/predicting-solder-joint-failure-ml) | MSc thesis rebuilt as a clean project: GAN synthesis expanding 450 physical samples → 5,000, benchmarking XGBoost / LightGBM / SVR against a CNN control for electronics failure prediction. |
+| 🟡 | [**Predictive Maintenance Pipeline**](https://github.com/SonOfElle/predictive-maintenance-pipeline) | End-to-end Microsoft Fabric build: API ingestion → medallion Lakehouse → thesis-adapted ML forecasting → Power BI star schema → Git-backed dev/test/prod deployment. |
+| 🔴 | [**PySpark Troubleshooting Lab**](https://github.com/SonOfElle/pyspark-troubleshooting-lab) | Reproducible failures for real Spark pain points: data skew, OOM executors, partition tuning, schema drift. Docs explain the *why*, not just the *fix*. |
+| 🔴 | [**Cloud Data Platform IaC**](https://github.com/SonOfElle/cloud-data-platform-iac) | Bicep / Terraform, PowerShell, and GitHub Actions for deploying Azure and Fabric data platforms end to end. |
+
+<sub>🟢 shipped · 🟡 in progress · 🔴 planned</sub>
 
 ---
 
-<h2 align="center"> Tech Stack</h2>
+## And my stack, see anything you know?
 
-<h3 align="center">Languages</h3>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 600px; margin: auto;">
+<h3 align="center">Data Platforms & Processing</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks" />
+  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Event Hubs" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+</p>
+
+<h3 align="center">Languages & Query</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="T-SQL" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
 </p>
 
-<h3 align="center">ML / MLOps</h3>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 720px; margin: auto;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost" width="120" height="120"/>
-  <img src="https://avatars.githubusercontent.com/u/36123390?s=200&v=4" alt="DVC" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/logo/icon.svg" alt="Kubeflow" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/icon.svg" alt="MLflow" width="36" height="36"/>
-</p>
-
-<h3 align="center">Cloud & DevOps</h3>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 720px; margin: auto;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<h3 align="center">Orchestration, DevOps & Security</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" alt="Cloud Run" width="64" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
+  <img src="https://img.shields.io/badge/RBAC_%26_Managed_Identities-2F363D?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="RBAC and Managed Identities" />
 </p>
 
-<h3 align="center">Visualization</h3>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 600px; margin: auto;">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="150" height="150"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="150"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="52" height="32"/>
+<h3 align="center">Analytics & ML</h3>
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="52" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost" width="40" height="40"/>
 </p>
 
+---
+
+> *"Production teaches you where systems break. Engineering teaches you how to build them so they don't."*
 
 ---
 
-> _"Data Science is not about predicting the future - it’s about engineering systems that learn from it."_  
+## Want to know what I am up to?
 
-> I believe in combining **scientific thinking** with **software craftsmanship** - bridging research and real-world systems.
+- Studying for **DP-700: Fabric Data Engineer Associate**
+- Building an end-to-end Fabric pipeline, ingestion, medallion Lakehouse, ML forecasting, CI/CD
+- Refactoring MSc thesis into modular, production-grade Python
+- Documenting failure patterns I keep seeing in enterprise Fabric support
 
----
-
-## Currently Working On
-- Rebuilding my MSc thesis as a **full MLOps project** (GCP + Docker + CI/CD)  
-- Exploring **Vertex AI Pipelines** and **Cloud Run deployments**  
-- Experimenting with **Prefect / Airflow** for orchestration  
+<sub>Updated monthly, sometimes. If this looks stale, nudge me.</sub>
 
 ---
 
 <div align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SonOfElle&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.shion.dev/api?username=SonOfElle&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
-    width="50%" 
+    width="48%" 
   />
-  <br/>
-
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SonOfElle&theme=tokyonight" 
-    alt="GitHub Streak" 
-    width="50%"
-  />
-  <br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfElle&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SonOfElle&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
-    width="50%"
+    width="48%"
   />
-
 </div>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building. Always curious.</i>  
+  <i>Always learning. Sometimes building. Always curious.</i>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</p>
+</p> 
